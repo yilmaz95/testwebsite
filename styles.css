@@ -1,0 +1,64 @@
+body {
+  background-image: url(images/yosemite-1920x1080-5k-4k-wallpaper-8k-forest-osx-apple-mountains-181.jpg);
+  margin: 0px;
+  padding: 0px;
+}
+
+h1 {
+  font-size: 100px;
+  color: #d4af37;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 20px;
+  color: black;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+p {
+  font-size: 15px;
+  color: black;
+  text-align: center;
+  margin: 30px 20px;
+  padding: 0px;
+}
+.header2 {
+  margin-top: 10px;
+  font-size: 80px;
+  color: #d4af37;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.profilBild {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+
+.container {
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+}
+
+.img1 {
+  order: 1;
+  z-index: -1;
+}
+
+.img2 {
+  order: 2;
+  z-index: -1;
+}
+
+.mittelfinger {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
